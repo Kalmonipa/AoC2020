@@ -1,3 +1,6 @@
+# I accidentally did pt2 in this file instead of creating a new one
+# To do part 1, just call calc_slope_trajectory(3,1) in main
+
 def get_file_len(input):
     with open('day3/input.txt','r') as input:
         for i, l in enumerate(input):
